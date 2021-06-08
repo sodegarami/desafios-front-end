@@ -15,7 +15,7 @@ As tags [```<transform>```](https://developer.mozilla.org/en-US/docs/Web/CSS/tra
 
 Onde as propriedades: <br>
  ```<transform>``` : permite modificar o espaço coordenado do modelo de formatação CSS. Os elementos podem ser traduzidos, rotacionados, ajustar seu tamanho e inclinação.<br>
- ```<perspective>``` : determina a distância entre o plano z = 0 e dá liberdade para que o usuário possa efetuar um posicionamento 3D em qualquer perspectiva escolhida.
+ ```<perspective>``` : determina a distância entre o plano z = 0 e dá liberdade para que o usuário possa efetuar um posicionamento 3D em qualquer perspectiva escolhida.<br>
 ```<rotate>``` : define uma transformação que gira um elemento em torno de um ponto fixo no plano 2D, sem deformá-lo. 
 
  ---
